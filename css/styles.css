@@ -56,3 +56,20 @@ h1 {
   padding-bottom: 5%;
 }
 
+.order-overlay{
+  background-color: rgba(0, 0, 0, 0.8);
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-bottom: 20px;
+  padding-left: 6%;
+}
+
+.deliver{
+  display: none;
+}
+
+.delivery{
+  display: none;
+  padding-left: 10%;
+  padding-right: 10%;
+}
