@@ -11,5 +11,6 @@
 * Open your preferred Editor and contiue to work on it.
 ## Known Bugs
 * Delivery is not properly set.
-
+## Technologies Used
+* HTML, CSS, Bootstrap CSS, JavaScript, Jquery.
 
