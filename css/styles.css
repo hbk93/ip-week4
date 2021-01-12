@@ -16,3 +16,18 @@ html, body, header {
   font-family: 'Eczar', serif;  
 }
 
+h1 {
+  letter-spacing: 8px;
+  font-weight: bolder;
+  font-family: 'Wallpoet', cursive;
+  font-size: 60px;
+  text-shadow: 2px 2px 5px rgb(8, 156, 5);
+}
+
+#overlay{
+  background-color: transparent;
+  height: 100%;
+  width: 100%;
+  position: absolute;  
+}
+
