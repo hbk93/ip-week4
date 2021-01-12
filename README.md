@@ -1,5 +1,5 @@
-# Independent Project Week3
-#### Delani Studio, 2021  
+# Independent Project Week 4
+#### Sizzling Pizza Joint, 2021  
 #### By Harry Bett
 ## Description
 * This is a landing page for Sizzling Pizza Joint. You get to select the flavor, toppings, type of crust and size of Pizza as you place your order.
