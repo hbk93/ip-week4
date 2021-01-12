@@ -1,4 +1,4 @@
-let price , crust_price, topping_price ;
+let price, crust_price, topping_price;
 let total = 0;
 class Getpizza {
   constructor(name, size, crust, topping, total) {
@@ -9,3 +9,17 @@ class Getpizza {
     this.total = total;
   }
 }
+
+$(document).ready(function () {
+  $("button.proceed").click(function (event) {
+    let pname = $(".name option:selected").val();
+    let psize = $("#size option:selected").val();
+    let pcrust = $("#crust option:selected").val();
+    let ptopping = [];
+    $.each($("input[name='toppings']:checked"), function () {
+      ptopping.push($(this).val());
+    });
+    console.log(ptopping.join(", "));
+
+    
+});
