@@ -31,3 +31,28 @@ h1 {
   position: absolute;  
 }
 
+.button{
+  border-radius: 10px;
+}
+
+.controls-top h2{
+  color: rgb(5, 172, 5);
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-weight: bolder;
+}
+
+.order h2{
+  text-align: center;
+}
+
+.order{
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
